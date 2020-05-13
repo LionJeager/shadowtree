@@ -73,10 +73,10 @@
 
                 </div>
                 <div class="col-xs-2">
-                    <a href="Login.jsp" class="Login-href">验证码登录</a>
+                    <a href="Login.jsp" class="Login-href">切换为验证码登录</a>
                 </div>
                 <div class="col-xs-2">
-                    <a href="#" class="Login-href">忘记密码?</a>
+                    <a href="#" class="Login-href">忘记密码?点击这里！</a>
                 </div>
             </div>
 <%--            <div class="form-group">--%>

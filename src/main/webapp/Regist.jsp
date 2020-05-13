@@ -1,4 +1,3 @@
-
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
@@ -35,7 +34,7 @@
             </div>
             <div class="top">
             </div>
-            <hr style="border:1px dashed #000; height:0px">
+            <hr class="hr">
         </nav>
 
     </div>

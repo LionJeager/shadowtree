@@ -18,7 +18,7 @@
 	}
 	.control-label{
 		font-family: serif;
-		color:#66B3FF;
+		color:#3AC4E6;
     }
 	#logo{
 		margin-left:4%;
@@ -39,19 +39,18 @@
 		width:100%;
 		margin-top:3em;
 		position:fixed;
-		background:lightblue;
-		
+		background: #3AC4E6;
 	}
 	.topHigh{
-		margin-top:11%;
+		margin-top:13%;
 		text-align:center;
 		font-family: serif;
-		color:#66B3FF;
+		color:#3AC4E6;
 		font-size:2em;
 		position:relative;
 	}
 	.mid{
-		margin-top:5%;	
+		margin-top:1%;
 		height:100%;	
 		width:100%;
 		background: url(people.png) no-repeat left;
@@ -103,7 +102,6 @@
 		font-family: serif;
 		color:#FFFF;
 	}
-	.Login-href{
-		height:42px;
-		line-height: 42px;
+	.hr{
+		border:1px dashed #000000;
 	}
